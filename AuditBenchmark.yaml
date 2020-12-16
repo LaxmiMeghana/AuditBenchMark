@@ -30,4 +30,4 @@ spec:
   ports:
   - port: 80
   selector:
-    app: AuditBenchmark
+    app: AuditBenchmar
